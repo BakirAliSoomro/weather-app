@@ -32,8 +32,8 @@ A responsive Weather App built using HTML, CSS, and JavaScript that fetches real
 
 ## Live Demo
 
-https://weather-app-js-phi-seven.vercel.app/
+[View Live App](https://weather-app-js-phi-seven.vercel.app/)
 
 ## GitHub Repository
 
-https://github.com/BakirAliSoomro/weather-app
+[View Repository](https://github.com/BakirAliSoomro/weather-app)
